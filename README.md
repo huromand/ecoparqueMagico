@@ -19,6 +19,7 @@ Desarrollar y probar un programa que permita gestionar el Ecoparque Mágico. En 
 
 * **Fénix**:  
   Tiene 180 años y nos interesa saber su energía. Su energía es igual a su edad si su pelaje está reluciente, pero si no lo está se reduce a la mitad. Además, también queremos saber si el fénix es un pichón. Esto ocurre cuando su edad es menor a 5 años. Es una criatura tanto diurna como nocturna, por lo que se puede atender a cualquier horario. Requiere un trabajador que soporte altas temperaturas y tenga más de 5 años de experiencia para su cuidado. Cuando es alimentado pueden pasar dos cosas: si es un pichón, su edad aumenta en 1 unidad. Si ya no es pichón, su plumaje se vuelve reluciente. Solo puede entrenar si no es un pichón. Si duerme su plumaje deja de estar reluciente, aunque no haya entrenado. Ahora bien, si duerme cuando tiene más de 200 años, el fénix termina su ciclo de vida y vuelve a ser un pichón, volviendo su edad a 1\. Se considera joven a un fénix cuando tiene menos de 150 años.
+  entrenar aumenta la edad en un 10% de si mismo
 
 * **Gárgola**:  
   Tiene 15 años y tiene dos estados: puede estar en forma de estatua o en forma viva, pudiendo cambiar esto cuando quiera. Es una criatura nocturna y solo puede ser cuidado si está en forma viva. Esta criatura no puede ser alimentada, por lo que si se quiere hacer esto no va a tener ningún efecto. Al entrenar, su edad disminuye en 1 unidad y vuelve a su estado de estatua. Como esta criatura descansa de día y el sol la daña, su edad aumenta 5 unidades cuando duerme. Siempre se la considera joven.
