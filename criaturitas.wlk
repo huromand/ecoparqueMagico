@@ -1,3 +1,4 @@
+import trabajadores.*
 object dragon {
   var temperatura = 200
 

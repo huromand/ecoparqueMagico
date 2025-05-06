@@ -1,3 +1,5 @@
+import criaturitas.*
+
 object rodrigo {
     var turno = "mañana"
     var tutor = null
@@ -23,15 +25,16 @@ object laura {
     method puedeNadar() = false
     method resisteAltasTemperaturas() = true
     method antiguedad() = 2
-    method interactuaCon(UnaGargola){}
+    method interactuaCon(unaCriaturita){
+        
+    }
 
 }
 object german {
     method turno() = "diurno"
     method puedeNadar() = true
     method resisteAltasTemperaturas() = true
-    method antiguedad() = 15
-    method interactuaCon(UnaGargola){}
+    method antiguedad() = 15 
     method esnseñarA(unTrabajador){}
 }
 object jimena {
